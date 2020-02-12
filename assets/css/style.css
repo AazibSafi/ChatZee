@@ -1,0 +1,41 @@
+/*.sendingTextArea{
+	border: 1px black solid;
+    width: 98%;
+    bottom: 0;
+    position: fixed;
+    height: 4%;
+    background-color: cadetblue;
+}*/
+.username{
+	width: 20%;
+	font-size: 17px;
+}
+.message{
+	font-size: 17px;
+	width: 70%;
+}
+.submitBtn{
+	background-color:lightblue;
+	width: 9%;
+	font-size: 17px;
+}
+.usernameArea{
+	background-color:lightgrey;
+}
+.messageArea{
+	background-color:lightblue;
+}
+li.messageList{
+	list-style-type: none;
+	margin: 0 0 3px 0;
+}
+li.selfMessages{
+    /*background-color: lightblue;*/
+	width:51%;
+	float: right;
+}
+li.otherMessages{
+	/*background-color: lightgreen;*/
+	width:51%;
+	float: left;
+}

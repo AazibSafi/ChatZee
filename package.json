@@ -1,0 +1,17 @@
+{
+  "name": "ChatZee",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Aazib Safi Patoli",
+  "scripts": {
+    "start": "node bin/www.js"
+  },
+  "dependencies": {
+    "angular": "^1.6.2",
+    "bson": "^1.0.4",
+    "ejs": "^2.5.5",
+    "express": "^3.4.8",
+    "mongoose": "^4.12.4",
+    "socket.io": "^0.9.17"
+  }
+}
